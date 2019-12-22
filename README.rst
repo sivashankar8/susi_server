@@ -221,7 +221,7 @@ If you want to create private skills in your local server, you should create a l
     > git push --set-upstream origin master
 
 *********
-Why should I use SUSI.AI?
+Why should I use SUSI.AI? 
 *********
 
 If you like to create your own AI, then you may consider SUSI.AI.
